@@ -4,7 +4,7 @@ status: backlog
 created: 2025-09-22T19:01:02Z
 progress: 0%
 prd: .claude/prds/calcolatrice-python-con-4-operazioni-base.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/gptprojectmanager/calculator/issues/1
 ---
 
 # Epic: calcolatrice-python-con-4-operazioni-base
@@ -81,18 +81,17 @@ High-level task categories that will be created:
 - **Usability**: Clear CLI interface with intuitive operation
 
 ## Tasks Created
-- [ ] 001.md - Setup Calculator Module Structure (parallel: true)
-- [ ] 002.md - Implement Core Arithmetic Operations (parallel: false)
-- [ ] 003.md - Implement Error Handling and Edge Cases (parallel: false)
-- [ ] 004.md - Create Comprehensive Test Suite (parallel: true)
-- [ ] 005.md - Implement CLI Interface (parallel: true)
-- [ ] 006.md - Documentation and Quality Assurance (parallel: false)
+- [ ] #2 - Setup Calculator Module Structure (parallel: true)
+- [ ] #3 - Implement Core Arithmetic Operations (parallel: false)
+- [ ] #4 - Implement Error Handling and Edge Cases (parallel: false)
+- [ ] #5 - Create Comprehensive Test Suite (parallel: true)
+- [ ] #6 - Implement CLI Interface (parallel: true)
+- [ ] #7 - Documentation and Quality Assurance (parallel: false)
 
 Total tasks: 6
-Parallel tasks: 3 (001, 004, 005)
-Sequential tasks: 3 (002, 003, 006)
+Parallel tasks: 3
+Sequential tasks: 3
 Estimated total effort: 36 hours
-
 ## Estimated Effort
 - **Overall Timeline**: 3 days maximum
 - **Core Development**: 1-1.5 days
